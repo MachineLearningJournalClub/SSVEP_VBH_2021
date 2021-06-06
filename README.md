@@ -30,7 +30,7 @@ SSVEP notebooks:
 
 * [EMD: Empirical Mode Decomposition](https://emd.readthedocs.io/en/stable/index.html) .  Python tools for the extraction and analysis of non-linear and non-stationary oscillatory signals
 
-   #### TimeGAN 
+#### TimeGAN 
  * Time-series Generative Adversarial Networks: https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf
  * https://github.com/jsyoon0823/TimeGAN 
  *  
